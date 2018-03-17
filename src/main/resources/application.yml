@@ -1,0 +1,4 @@
+#访问项目的url前缀
+server:
+  servlet:
+    context-path: /mongodb
